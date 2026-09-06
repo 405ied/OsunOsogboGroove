@@ -1,0 +1,9 @@
+# My Project brief
+
+## The question 
+Monitoring Land use/Land cover change and buffer zone Encroachment in the Osun-Osogbo Sacred Grove (1986-2026)
+
+## The data I need
+-	Ward boundaries - GRID3 - https://data.grid3.org/
+-	Osun Osogbo grove extents - GRID3 - https://data.grid3.org/
+-	Areal Imagery of Osogbo - Landsat 8/9 and Sentinel 2 
